@@ -6,7 +6,7 @@ const quiz = [
         answer: 0
     },
     {
-        q:"If it hadn't been for your help, we ..... in trouble now.",
+        q:"If it hadn't been for your help, we ...... in trouble now.",
         options:["will be", "would be", "would have been", "were"],
         answer: 1
     },
