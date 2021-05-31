@@ -12,7 +12,7 @@ const quiz = [
     },
     {
         q:"I wonder ..... mind watching this bag for me for a moment.",
-        options:["whether you would", "if would you", "you would", "would you"],
+        options:["wether you would", "if would you", "you would", "would you"],
         answer: 0
     },
     {
